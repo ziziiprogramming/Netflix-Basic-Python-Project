@@ -1,4 +1,4 @@
-# netflix-basic-python-project
+# Netflix-Basic-Python-Project
 This project applies the Python skills I learned in the Kaggle Python Course to explore the Netflix Titles dataset.
 
 ## Skills Used
